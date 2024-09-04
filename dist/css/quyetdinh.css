@@ -1,0 +1,10 @@
+.edit i{
+    font-size: 20px;
+    color: rgb(21, 21, 239);
+    margin-right: 15px;
+    margin-left: 10px;
+}
+.trash i{
+    font-size: 20px;
+    color: rgb(244, 15, 15);
+}
